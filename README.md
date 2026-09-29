@@ -1,6 +1,6 @@
 # Hi, I'm Vinícius Oliveira
 
-PhD student in theoretical particle physics and cosmology at LIP / University of Minho, with research visits to Lund University.
+PhD student in particle physics and cosmology at LIP / University of Minho, with research visits to Lund University.
 
 ## Research
 
